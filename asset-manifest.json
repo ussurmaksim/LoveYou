@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LoveYou/static/css/main.0640e74d.css",
+    "main.js": "/LoveYou/static/js/main.bc772e5b.js",
+    "static/media/rose.png": "/LoveYou/static/media/rose.de3049a9387c153e7dba.png",
+    "static/media/photo_5_2025-02-10_12-24-39.jpg": "/LoveYou/static/media/photo_5_2025-02-10_12-24-39.349cc996834e4bfbf8b1.jpg",
+    "static/media/photo_3_2025-02-10_12-24-39.jpg": "/LoveYou/static/media/photo_3_2025-02-10_12-24-39.677934204a7c464e0e88.jpg",
+    "static/media/photo_4_2025-02-10_12-24-39.jpg": "/LoveYou/static/media/photo_4_2025-02-10_12-24-39.c4e081353bcd3ae2f6f4.jpg",
+    "static/media/photo_6_2025-02-10_12-24-39.jpg": "/LoveYou/static/media/photo_6_2025-02-10_12-24-39.a0c46a252bdb5227e0eb.jpg",
+    "static/media/photo_2_2025-02-10_12-24-39.jpg": "/LoveYou/static/media/photo_2_2025-02-10_12-24-39.877964a8b721ac147431.jpg",
+    "index.html": "/LoveYou/index.html",
+    "main.0640e74d.css.map": "/LoveYou/static/css/main.0640e74d.css.map",
+    "main.bc772e5b.js.map": "/LoveYou/static/js/main.bc772e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0640e74d.css",
+    "static/js/main.bc772e5b.js"
+  ]
+}

@@ -7,10 +7,10 @@ export default class Section1 extends React.Component {
             <section id="section1">
                 <div className="container">
                     <div className="row px-3">
-                        <div className="col-md-6 mt-5">
-                            <h1>Lorem ipsum dolor sit</h1>
-                            <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, dolorem laudantium libero natus quibusdam similique.</p>
-                            <a href="#section3" className="btn btn-outline-info">К валентинке</a>
+                        <div className="col-md-6 my-5">
+                            <h1>Если ты не знала, то я тебя люблю ващет</h1>
+                            <p className="lead">Ты даже не думай что тебя когда нибудь разлюблю) Ниже валентинка там вопросик логичный и очень разнообразный выбор)</p>
+                            <a href="#Valentine" className="btn btn-outline-info">К валентинке</a>
                         </div>
                         <div className="col-md-6 justify-content-center d-flex">
                             <div className="cardImg">

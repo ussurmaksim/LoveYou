@@ -49,17 +49,56 @@ img {
     width: 50%;
     border-radius: 10px;
     overflow: hidden;
+    height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .cardImg {
+        width: 100%;
+    }
 }
 
 .img-rose {
     width: 100%;
 }
 
-.img-rose-rotate {
+.img-rotate {
     transform: rotateY(180deg);
 }
 
 .img-galllery-item {
     width: 100%;
     border-radius: 10px;
+    height: 100%;
+}
+
+.valen-btn {
+    width: 100px;
+}
+.video {
+    width: 100%;
+    border-radius: 10px;
+}
+/* src/FallingImages.css */
+.falling-images-container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.falling-image {
+    position: absolute;
+    top: -100px; /* Начальная позиция сверху */
+    transform: translateX(-50%);
+    animation: fall 3s linear;
+}
+
+@keyframes fall {
+    0% {
+        top: -100px;
+    }
+    100% {
+        top: 110%;
+    }
 }

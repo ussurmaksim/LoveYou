@@ -9,11 +9,11 @@ export default class Section2 extends React.Component {
                         <div className="col-md-3">
                             <img className="img-rose" src={img1} alt="" />
                         </div>
-                        <div className="col-6 d-flex align-items-center">
-                            <h2 className="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
+                        <div className="col-md-6 d-flex align-items-center">
+                            <h2 className="text-center">Ты моя любоффф)<br/> Всегда самая красивая и умная! Оставайся такой всегда</h2>
                         </div>
                         <div className="col-md-3">
-                            <img className="img-rose-rotate" src={img1} alt="" />
+                            <img className="img-rotate" src={img1} alt="" />
                         </div>
                     </div>
                 </div>

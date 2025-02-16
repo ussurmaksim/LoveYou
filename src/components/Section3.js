@@ -11,23 +11,21 @@ export default class Section2 extends React.Component {
             <section id="section3">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-3">
+                        <div className="col-md-3 col-6 my-3">
                             <img className="img-galllery-item" src={img1} alt="" />
                         </div>
-                        <div className="col-md-3">
+                        <div className="col-md-3 col-6 my-3">
                             <img className="img-galllery-item" src={img2} alt="" />
                         </div>
-                        <div className="col-md-3">
+                        <div className="col-md-3 col-6 my-3">
                             <img className="img-galllery-item" src={img3} alt="" />
                         </div>
-                        <div className="col-md-3">
+                        <div className="col-md-3 col-6 my-3">
                             <img className="img-galllery-item" src={img4} alt="" />
                         </div>
                         <div className="col-md-12 mt-5 text-center">
-                            <h2>Lorem ipsum dolor sit</h2>
-                            <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, dolorem laudantium libero natus quibusdam similique.</p>
-                            <h4>Lorem ipsum dolor sit amet.</h4>
-                            <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, fugit ipsa maiores repellendus unde veniam!</p>
+                            <h2>Смотри какая ты красотка)</h2>
+                            <p className="lead">Никогда даже не думай, что ты выглядишь не красиво, если ты когда нибудь так подумаешь напиши мне, я тебе по жопе заряжу за такие мысли))</p>
                         </div>
                     </div>
                 </div>
